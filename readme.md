@@ -14,7 +14,7 @@ Hi, my name is Doruk and I'm 17. I started software development 1 year ago with 
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.gg/2305" target="_blank"><img src="https://shields.io/badge/iLxlo-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://discord.gg/2305" target="_blank"><img src="https://shields.io/badge/Discord Server-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/ilxlo" target="_blank"><img src="https://shields.io/badge/ilxlo-111111.svg?&style=for-the-badge&logo=github"></a>
 </div>
 
