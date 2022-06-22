@@ -1,7 +1,7 @@
 
 # ✨ Hi, I am iLxlo
 
-Hi, my name is Doruk and I'm 17. I started software development 1 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript developer. 
+Hi, my name is Doruk and I'm 17. I started software development 1 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript & Python developer. 
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=ilxlo&color=dc143c"/>
