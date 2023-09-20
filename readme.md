@@ -1,19 +1,14 @@
+# <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4a76fc&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+iLxlo">
 
-# ✨ Hi, I am iLxlo
+<img width="30%" align="right" src="https://lanyard.kyrie25.me/api/1149040970353102859?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness">
 
+<b> Experience <b>
+<samp>
+- Python
+- JavaScript
+<samp>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ilxlo&color=dc143c"/>
-</div>
+## Github Stats
 
-<div align="center">
-    <a href="https://discord.com/users/975457597014564995" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/975457597014564995"></a>
-</div>
-
-## 📈 Github Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ilxlo&show_icons=true&theme=dark&hide_border=true%22%20width=%22%100" height="150px">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilxlo&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
-</div>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=iLxlo&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
+<img align="left" width="40%" src="https://moe-counter.glitch.me/get/@:iLxlo"> 
