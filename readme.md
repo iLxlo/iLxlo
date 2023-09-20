@@ -6,6 +6,7 @@
 <samp>
 - Python
 - JavaScript
+- Typescript
 <samp>
 
 ## Github Stats
